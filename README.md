@@ -26,12 +26,12 @@ Repositorio de pruebas automatizadas con **Cypress** sobre la página de login d
 
     Instalar dependencias:
 
-npm install
+    npm install
 
-Ejecutar Cypress en modo interactivo:
+    Ejecutar Cypress en modo interactivo:
 
-npx cypress open
+    npx cypress open
 
-O ejecutar en modo headless:
+    O ejecutar en modo headless:
 
-npx cypress run
+    npx cypress run
